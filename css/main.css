@@ -25,7 +25,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: linear-gradient(70deg,#509fc95d,#e83b5877);
+    background-image: linear-gradient(130deg,#509fc95d,#e83b5877);
 }
 .header{
     padding: 2rem 0.625rem 0 0.625rem;
